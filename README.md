@@ -1,3 +1,7 @@
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+
+
 <h1 align="center">Hi 👋, I'm Harsh Vaghasiya</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
