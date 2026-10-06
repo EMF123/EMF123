@@ -1,35 +1,35 @@
  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> -->
 
-<!-- <h1 align="center"><a href="https://aayushbharti.in/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1> -->
+<!-- <h1 align="center"><a href="https://Harsh Vaghasiya/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Harsh+Vaghasiya" alt="Hey there 🙋‍♂️, I'm Harsh Vaghasiya" /></a></h1> -->
 
-  <a href="https://aayushbharti.in/">
+  <a href="">
     <img
-      alt="Aayush Bharti"
-      src="./assets/banner.jpg"
+      alt="Harsh Vaghasiya"
+      src="./assets/banner.png"
       width="100%"
     />
   </a>
  
 <!-- <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-    Hi, I'm Aayush Bharti,
+    Hi, I'm Harsh Vaghasiya,
   </span>
   <span style="display: inline-block; vertical-align: middle;">
     <img
-      src="https://aayushbharti.in/2.jpg"
-      alt="Aayush Bharti"
+      src=""
+      alt="Harsh Vaghasiya"
       width="80"
       style="border-radius: 24px; cursor: pointer; margin: 0 15px;"
     />
   </span>
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
-    a Full Stack Developer based in India.
+    Data Analyst & Operations Specialist based in United Kingdom.
   </span>
 </div> -->
 
 <!-- <br/> -->
 
-<!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/AayushBharti) -->
+<!-- [![Hello programmer Welcome to my profile](https://custom-icon-badges.demolab.com/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/Harsh Vaghasiya) -->
 <!-- [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/AayushBharti) -->
 <!-- [![GitHub Streak](https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fstreak-stats.demolab.com%2F%3Fuser%3DAayushBharti%26type%3Djson)](https://github.com/AayushBharti) -->
 <!-- [![Last Commit](https://custom-icon-badges.demolab.com/github/last-commit/AayushBharti/AayushBharti?style=plastic&logo=history)](https://github.com/AayushBharti/AayushBharti/commits/master) -->
@@ -47,11 +47,11 @@
 <a href="https://x.com/iAayushBharti" target="_blank"><img alt="X/Twitter" align="right" width="40" src="./assets/twitter.svg" /></a>
 <a href="https://github.com/AayushBharti" target="_blank"><img alt="Github" align="right" width="40" src="./assets/github.svg" /></a> -->
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)](https://aayushbharti.in)
-[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)](https://aayushbharti.in)
-<a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Aayush Bharti | X" /></a><a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aayush Bharti | LinkedIn" /></a><a href="mailto:hello@aayushbharti.in"><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Aayush Bharti | Email" /></a>
+[![Visits Badge](https://komarev.com/ghpvc/?username=aayushbharti&label=Profile%20views&color=red&style=for-the-badge)]
+[![wakatime](https://wakatime.com/badge/user/8821fc28-7662-4c43-9766-efd845f8957f.svg?style=for-the-badge)]
+<a href="https://x.com/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Aayush Bharti | X" /></a><a href="https://linkedin.com/in/iAayushBharti" target="_blank"><img align="right" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aayush Bharti | LinkedIn" /></a><a href=""><img align="right" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Harsh Vaghasiya | Email" /></a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://aayushbharti.in/" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
+<a href="" target="_blank"><img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250'></a>
 
 <h3>Engineering products that <i>scale</i> & <i>stick</i> with time.</h3>
 
