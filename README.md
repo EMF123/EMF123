@@ -1,4 +1,4 @@
-[![Banner](./3b5b4afe-e064-4cdb-8f2a-e6198d5cefc3.png)](https://YOUR_PORTFOLIO_URL/)
+[![Banner](./assets/banner.png)](https://YOUR_PORTFOLIO_URL/)
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=red&style=for-the-badge)](https://YOUR_PORTFOLIO_URL)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
