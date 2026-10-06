@@ -1,53 +1,56 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
-<h3 align="center">Data Science • Computer Engineering • UI/UX Design</h3>
+[![Banner](./assets/banner.jpg)](https://YOUR_PORTFOLIO_URL/)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=Data+Scientist;Computer+Engineer;UI%2FUX+Designer;Creative+Builder" alt="Typing SVG" />
-</p>
+[![Visits Badge](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=red&style=for-the-badge)](https://YOUR_PORTFOLIO_URL)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square" alt="Followers" />
-</p>
+### Turning data into products people *use* & *love*.
 
----
+- 🌱 Currently leveling up in **YOUR CURRENT FOCUS**
 
-## 🚀 About Me
+- 👨‍💻 My projects → [YOUR_PORTFOLIO_URL/projects](https://YOUR_PORTFOLIO_URL/projects)
 
-| | |
-|---|---|
-| 🔭 **Currently working on** | YOUR CURRENT PROJECT |
-| 🌱 **Currently learning** | YOUR LEARNING FOCUS |
-| 👯 **Looking to collaborate on** | YOUR COLLAB INTERESTS |
-| 💬 **Ask me about** | Data science, UI/UX design, computer engineering |
-| 📫 **Reach me** | YOUR EMAIL / LINKEDIN |
-| ⚡ **Fun fact** | YOUR FUN FACT |
+- ✍️ I write about what I learn → [YOUR_PORTFOLIO_URL/blog](https://YOUR_PORTFOLIO_URL/blog)
+
+- 🤝 **Open to full-time roles & freelance** — <YOUR_EMAIL>
 
 ---
 
-## 🧭 Background
+## 🧭 What I Do
 
-| Area | What I bring |
+| Area | Focus |
 |---|---|
-| 📊 Data Science | Analysis, modelling, turning data into decisions |
-| 💻 Computer Engineering | Building and shipping software and systems |
-| 🎨 UI/UX Design | User-centred interfaces, wireframes, prototypes |
-| 🤝 Sales | Understanding customer needs and communicating value |
-| 🎪 Event Management | Planning, coordination and delivery under deadlines |
+| 📊 **Data Science** | Analysis, modelling and turning data into decisions |
+| 💻 **Computer Engineering** | Building and shipping software and systems |
+| 🎨 **UI/UX Design** | User-centred interfaces, wireframes and prototypes |
+| 🤝 **Sales** | Understanding customer needs and communicating value |
+| 🎪 **Event Management** | Planning, coordination and delivery under deadlines |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Things I code with
 
-| Category | Tools |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Data & ML** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,c,cpp,js,ts,react,html,css,figma,pandas,numpy,tensorflow,pytorch,jupyter,postgresql,mysql,git,github,vscode&theme=dark&titles=true)](https://YOUR_PORTFOLIO_URL)
 
-> Edit this table so it lists only the tools you actually use.
+> Keep only the icons for tools you actually use. The full icon list is at [go-skill-icons](https://github.com/tandpfun/skill-icons).
+
+---
+
+## 📊 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+> Optional: set up the [waka-readme](https://github.com/athul/waka-readme) GitHub Action with your WakaTime API key to fill this section automatically. Delete the section if you don't use WakaTime.
+
+---
+
+## 📈 Stats Overview
+
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true)](https://YOUR_PORTFOLIO_URL)
+[![readme stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10&include_all_commits=true)](https://YOUR_PORTFOLIO_URL)  
+[![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&border_radius=10)](https://YOUR_PORTFOLIO_URL)
 
 ---
 
@@ -57,23 +60,6 @@
 |---|---|---|
 | [Project One](https://github.com/YOUR_USERNAME/project-one) | One-line description | Python, Pandas |
 | [Project Two](https://github.com/YOUR_USERNAME/project-two) | One-line description | React, Figma |
-| [Project Three](https://github.com/YOUR_USERNAME/project-three) | One-line description | JavaScript |
+| [Project Three](https://github.com/YOUR_USERNAME/project-three) | One-line description | TypeScript |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-</p>
+> Your pinned repositories already show on your profile, so this table is optional.
